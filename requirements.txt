@@ -1,1 +1,15 @@
 jupyter-contrib-nbextensions==0.5.1
+glob
+pandas==1.4.2
+pandas_explode #still needed?
+pandas_explode.patch() #still needed?
+IPython.display
+beautifulsoup4
+re
+datetime
+os
+matplotlib
+tldextract
+numpy
+spacy==3.4.3
+IPython.display
