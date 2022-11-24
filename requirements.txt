@@ -9,7 +9,7 @@ re
 datetime
 os
 matplotlib
-tldextract
+tld==0.12.6
 numpy
 spacy==3.4.3
 IPython.display
