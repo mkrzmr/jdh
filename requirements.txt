@@ -1,15 +1,14 @@
 jupyter-contrib-nbextensions==0.5.1
 glob
 pandas==1.4.2
-pandas_explode #still needed?
-pandas_explode.patch() #still needed?
 IPython.display
-beautifulsoup4
+beautifulsoup4==4.11.1 
 re
 datetime
 os
-matplotlib
+matplotlib==3.6.2
 tld==0.12.6
-numpy
+numpy==1.23.5 
 spacy==3.4.3
-IPython.display
+gensim==4.2.0
+nltk==3.7
