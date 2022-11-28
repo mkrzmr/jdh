@@ -6,3 +6,10 @@ Despite their significance, political web defacements remain an under-utiled res
 
 # Keywords
 Defacement, Hacking, Archive, NLP, Topic Modeling
+
+# Social Media Abstract
+
+What sources do we have to describe the history of political web defacements? And how can archived copies of hacked web sites help complete our understanding of the history of the web? Our new article describes the work to make over 10.000 web defacements available for research purposes. 
+
+@mkrzmr
+@kurzmeier@scholar.social
