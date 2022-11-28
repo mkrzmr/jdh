@@ -1,11 +1,9 @@
 jupyter-contrib-nbextensions==0.5.1
-glob
+glob==0.7
 pandas==1.4.2
 IPython.display
 beautifulsoup4==4.11.1 
-re
-datetime
-os
+datetime==0.9.4
 matplotlib==3.6.2
 tld==0.12.6
 numpy==1.23.5 
